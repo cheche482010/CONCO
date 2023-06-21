@@ -1,0 +1,14 @@
+
+usuario Habitante
+03030303  
+clave 
+
+usuario Administrador
+02020202
+clave
+
+super usuario 
+01010101
+clave
+
+firma digital: firma
